@@ -1,7 +1,0 @@
-sonar.host.url=http://localhost:9000
-sonar.projectKey="Exp8"
-sonar.projectName="Exp8"
-sonar.sourceEncoding=UTF-8 
-sonar.sources=Test/ADOL
-sonar.language=C
-#sonar.exclusion="list of folders which will exclude from scan"
